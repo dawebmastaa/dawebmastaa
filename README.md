@@ -137,7 +137,7 @@ So that's what I do.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" alt="yarn logo"  />
 </div>
 
-###
+<br /><br />
 
 ## Backend
 
@@ -263,7 +263,7 @@ So that's what I do.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
-###
+<br /><br />
 
 ## Deployment
 
