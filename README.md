@@ -309,8 +309,20 @@ So that's what I do.
 
 ## 📊 GitHub Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=Dawebmastaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawebmastaa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawebmastaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dawebmastaa&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=dawebmastaa&&style=flat-square)
 
 ## 🏆 GitHub Trophies
 
