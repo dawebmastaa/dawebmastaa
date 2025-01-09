@@ -1,16 +1,6 @@
-## Hey 👋, I'm Mike  
+## Hey 👋, I'm Mike   
   
-<a href="https://github.com/dawebmastaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/dawebmastaa" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/dawebamasta" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-  
-### Glad to see you here!  
+### Thanks for dropping by!  
 I write code. Lots of it. In many different languages.
 
 However, I don't see myself as a programmer or a developer. I solve business problems for businesspeople. Businesspeople don't care what language you use, what framework you use, or what sitebuilder you use. They care about how you are going to solve their IT problems, and if you can do it affodably.
