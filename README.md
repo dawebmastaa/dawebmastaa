@@ -309,15 +309,9 @@ So that's what I do.
 
 ## 📊 GitHub Stats 
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dawebmastaa&show_icons=true&theme=dark&count_private=true&hide_border=true&hide_background=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&hide_border=true&layout=compact&hide_bg=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![dawebmastaa's Stats](https://github-readme-stats.vercel.app/api?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![dawebmastaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawebmastaa&theme=dark&hide_border=true)
+![dawebmastaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 <br/>  
