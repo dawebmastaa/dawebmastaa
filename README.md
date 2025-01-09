@@ -310,10 +310,11 @@ So that's what I do.
 ## 📊 GitHub Stats 
 
 ![dawebmastaa's Stats](https://github-readme-stats.vercel.app/api?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![dawebmastaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 <!---
 ![dawebmastaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawebmastaa&theme=dark&hide_border=true)
 --->
-![dawebmastaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 <br/>  
