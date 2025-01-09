@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mike   
+## 👋  Hey, I'm Mike   
   
 ### Thanks for dropping by!  
 I write code. Lots of it. In many different languages.
