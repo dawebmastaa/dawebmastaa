@@ -33,7 +33,7 @@ So that's what I do.
 
 <br/>  
 
-<h3 align="left">Front End</h3>
+## Front End
 
 ###
 
@@ -49,11 +49,8 @@ So that's what I do.
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
 </div>
 
-###
-
 <h4 align="left">Frameworks & Libraries</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
@@ -142,7 +139,7 @@ So that's what I do.
 
 ###
 
-<h3 align="left">Backend</h3>
+## Backend
 
 ###
 
@@ -270,7 +267,7 @@ So that's what I do.
 
 ###
 
-<h3 align="left">Deployment</h3>
+## Deployment
 
 ###
 
