@@ -261,8 +261,6 @@ So that's what I do.
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="50" alt="doctrine logo"  />
 </div>
 
 ###
