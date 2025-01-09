@@ -182,7 +182,7 @@ So that's what I do.
   
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   
   <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
   
