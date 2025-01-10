@@ -33,11 +33,13 @@ So that's what I do.
 
 <br/>  
 
-<h2 align="left">Front End</h2>
+# Tech Stack
+
+## Front End
 
 ###
 
-<h4 align="left">Languages</h4>
+#### Languages
 
 ###
 
