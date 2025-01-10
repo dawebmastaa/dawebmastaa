@@ -3,7 +3,7 @@
 ### Thanks for dropping by!  
 I write code. Lots of it. In many different languages.
 
-However, I don't see myself as a programmer or a developer. I solve business problems for businesspeople. Businesspeople don't care what language you use, what framework you use, or what sitebuilder you use. They care about how you are going to solve their IT problems, and if you can do it affodably.
+However, I don't see myself as a programmer or a developer. I solve business problems for businesspeople. I turn 1s and 0s into dollars and cents. Businesspeople don't care what language you use, what framework you use, or what sitebuilder you use. They care about how you are going to solve their IT problems, and if you can do it affodably.
 
 So that's what I do.  
 <br/>  
