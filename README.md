@@ -7,7 +7,7 @@ However, I don't see myself as a programmer or a developer. I solve business pro
 
 So that's what I do.  
 <br/>  
-## Updates 
+## Etc 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on creating an easy to use business stack for small businesses and solopreneurs.  
