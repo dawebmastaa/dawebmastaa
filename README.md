@@ -44,15 +44,15 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5" title="HTML"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3" title="CSS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript" title="JavaScript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="typescript" title="TypeScript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="44" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="44" alt="markdown" title="Markdown & MDX"  />
 </div>
 
 ###
@@ -62,43 +62,43 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs" title="Angular"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="44" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="44" alt="astro" title="Astro"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="44" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="44" alt="bootstrap" title="Bootstrap"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="44" alt="bulma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="44" alt="bulma" title="Bulma"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" height="44" alt="eleventy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" height="44" alt="eleventy" title="Eleventy"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ember" height="44" alt="ember logo"  />
+  <img src="https://skillicons.dev/icons?i=ember" height="44" alt="ember" title="Ember" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="44" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="44" alt="jquery" title="jQuery" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="44" alt="less logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="44" alt="less" title="LESS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lit" height="44" alt="lit logo"  />
+  <img src="https://skillicons.dev/icons?i=lit" height="44" alt="lit" title="Lit"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="44" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="44" alt="materialui" title="MaterialUI"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs" title="Nuxt"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma" title="Prisma"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="44" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="44" alt="react" title="React"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="sass" title="SASS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="44" alt="stylus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="44" alt="stylus" title="Stylus"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte" title="Svelte"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss" title="Tailwind"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="44" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="44" alt="vite" title="Vite"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="vuejs" title="Vue"  />
 </div>
 
 ###
