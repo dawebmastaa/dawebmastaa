@@ -70,17 +70,19 @@ So that's what I do.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="44" alt="bulma" title="Bulma"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" height="44" alt="eleventy" title="Eleventy"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ember" height="44" alt="ember" title="Ember" />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="44" alt="jquery" title="jQuery" />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="44" alt="less" title="LESS"  />
   <img width="12" />
+  -->
   <img src="https://skillicons.dev/icons?i=lit" height="44" alt="lit" title="Lit"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="44" alt="materialui" title="MaterialUI"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs" title="Nuxt"  />
   <img width="12" />
@@ -89,8 +91,6 @@ So that's what I do.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="44" alt="react" title="React"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="sass" title="SASS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="44" alt="stylus" title="Stylus"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte" title="Svelte"  />
   <img width="12" />
@@ -177,8 +177,6 @@ So that's what I do.
   <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="44" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="44" alt="ruby logo"  />
   <img width="12" />
