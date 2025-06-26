@@ -118,7 +118,7 @@ So that's what I do.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="44" alt="jamstack logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="44" alt="linux logo" title="Linux"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" alt="npm logo"  />
   <img width="12" />
@@ -268,7 +268,7 @@ So that's what I do.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" alt="azure logo" title="Azure"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo" title="Linux"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="44" alt="Linux" title="Linux"  />
 </div>
 
 ###
