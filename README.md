@@ -165,8 +165,12 @@ So that's what I do.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask" title="Flask"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="44" alt="nestjs logo"  />
   <img src="https://skillicons.dev/icons?i=symfony" height="44" alt="symfony logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel" title="Alravel"  />
+  <img width="12" /> 
 </div>
 
 ###
@@ -206,6 +210,8 @@ So that's what I do.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" title="Supabase"  />
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=planetscale" height="44" alt="planetscale logo"  />
