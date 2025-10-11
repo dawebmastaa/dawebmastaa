@@ -152,7 +152,7 @@ So that's what I do.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="44" alt="rust logo" title="Rust" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo" title="TypeScript />
+  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo" title="TypeScript" />
 
 ###
 
