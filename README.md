@@ -13,7 +13,7 @@ So that's what I do.
 - 🔭 I’m currently working on creating an easy to use business stack for small businesses and solopreneurs.  
   
 
-- 🌱 I’m currently learning Vue and Nuxt.  
+- 🌱 I’m currently learning Vue/Nuxt and Svelte/SvelteKit.  
   
 
 - ❓ Ask me about anything related to using the web for small business.  
@@ -70,7 +70,7 @@ So that's what I do.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma" title="Prisma"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte" title="Svelte"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte" title="Svelte/SvelteKit"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss" title="Tailwind"  />
   <img width="12" />
@@ -86,45 +86,45 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="44" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="44" alt="canva logo" title="Canva" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="44" alt="eslint logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="44" alt="eslint logo" title="ESLint" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo" title="" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="44" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="44" alt="gimp logo" title=""Gimp />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="44" alt="graphql logo"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="44" alt="graphql logo" title="GraphQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo" title="Postman" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="44" alt="sketch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="44" alt="sketch logo" title="Sketch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="bash logo"title="Bash"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo" title="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo" title="Github />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="44" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="44" alt="gitlab logo" title="GitLab" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo" title="VSCode" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" alt="bitbucket logo" title="Bitbucket" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="44" alt="inkscape logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="44" alt="inkscape logo" title="Inkscape" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="44" alt="jamstack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="44" alt="jamstack logo" title="Jamstack"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="44" alt="linux logo" title="Linux"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" alt="npm logo" title="NPM" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo" title="NodeJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="44" alt="ssh logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="44" alt="ssh logo" title="SSH" />
 </div>
 
 ###
@@ -138,22 +138,21 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="bash logo" title="Bash" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="44" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="44" alt="go logo" title=""Go />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo" title="GraphQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo" title=""JavaScript />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=perl" height="44" alt="perl logo"  />
+  <img src="https://skillicons.dev/icons?i=perl" height="44" alt="perl logo" title="PERL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo" title="Php" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="44" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="44" alt="rust logo" title="Rust" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo" title="TypeScript
 
 ###
 
@@ -163,13 +162,13 @@ So that's what I do.
 
 <div align="left">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo" title="ExpressJS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask" title="Flask"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask" title="Flask" title="Flask" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="44" alt="nestjs logo"  />
-  <img src="https://skillicons.dev/icons?i=symfony" height="44" alt="symfony logo"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel" title="Alravel"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="44" alt="nestjs logo" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="44" alt="symfony logo" title="Symfony" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel" title="Alravel" title="Laravel" />
   <img width="12" /> 
 </div>
 
@@ -180,21 +179,21 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="44" alt="composer logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="44" alt="composer logo" title="Composer" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="44" alt="cucumber logo"  />
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="44" alt="cucumber logo" title="Cucumber" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="fastapi logo" title="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="44" alt="ssh logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="44" alt="ssh logo" title="SSH" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="44" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="44" alt="bash logo" title="Bash" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="44" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="44" alt="nodejs logo" title=""NodeJS />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo" title="Postman" />
 </div>
 
 ###
@@ -204,35 +203,29 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cassandra" height="44" alt="apachecassandra logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="44" alt="couchdb logo" title="CouchDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="44" alt="couchdb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo" title="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" title="Supabase"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" title="Supabase" title="Supabase" />
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo" title=""MySQL />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=planetscale" height="44" alt="planetscale logo"  />
+  <img src="https://skillicons.dev/icons?i=planetscale" height="44" alt="planetscale logo" title="PlanetScale" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="redis logo" title="Redis" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="44" alt="sequelize logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="44" alt="sequelize logo" title="Sequelize" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="44" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="44" alt="sqlite logo" title="SQLite" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=apollo" height="44" alt="apollographql logo" title=""GraphQL />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apollo" height="44" alt="apollographql logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="44" alt="fastapi logo" title="FastAPI" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="44" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="postgresql logo" title="PpstgreSQL" />
 </div>
 
 ###
@@ -242,35 +235,33 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="44" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="44" alt="apache logo" title="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="44" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" alt="bitbucket logo" title="BitBucker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" alt="bitbucket logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="44" alt="cloudflare logo" title="CloudFlare" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="44" alt="cloudflare logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="44" alt="digitalocean logo" title="DO" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="44" alt="digitalocean logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo" title="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  title="Github" title="GitHub" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  title="Github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="44" alt="gitlab logo" title="GitLab" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="44" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="44" alt="googlecloud logo" title="GCP" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="44" alt="googlecloud logo" title="GCP"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="44" alt="heroku logo" title="Heroku" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="44" alt="heroku logo" title="Heroku"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="44" alt="nginx logo" title="Nginx" title="Nginx" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="44" alt="nginx logo" title="Nginx"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="44" alt="netlify logo" title="Netlify" title="Netlify" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="44" alt="netlify logo" title="Netlify"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo" title="NodeJS" title="NodeJS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo" title="NodeJS"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo" title="AWS"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo" title="AWS" title="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" alt="azure logo" title="Azure"  />
   <img width="12" />
