@@ -291,8 +291,3 @@ So that's what I do.
 
 
 [![](https://visitcount.itsvg.in/api?id=dawebmastaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-###
-
-<a href="https://app.daily.dev/dawebmasta"><img src="https://api.daily.dev/devcards/v2/DJx7Lk8bPJmfOXIAWHSvH.png?type=wide&r=utq" width="652" alt="Mike  Alberts's Dev Card"/></a>
