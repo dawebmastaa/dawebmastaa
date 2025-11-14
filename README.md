@@ -277,9 +277,8 @@ So that's what I do.
 ![dawebmastaa's Stats](https://github-readme-stats.vercel.app/api?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
 ![dawebmastaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawebmastaa&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)
 
-<!---
 ![dawebmastaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawebmastaa&theme=dark&hide_border=true)
---->
+
 
 <br />  
 <br />  
@@ -292,3 +291,8 @@ So that's what I do.
 
 
 [![](https://visitcount.itsvg.in/api?id=dawebmastaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+###
+
+<a href="https://app.daily.dev/dawebmasta"><img src="https://api.daily.dev/devcards/v2/DJx7Lk8bPJmfOXIAWHSvH.png?type=wide&r=utq" width="652" alt="Mike  Alberts's Dev Card"/></a>
