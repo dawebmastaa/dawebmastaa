@@ -64,11 +64,7 @@ So that's what I do.
 <div align="left">
   <img src="https://skillicons.dev/icons?i=astro" height="44" alt="astro" title="Astro"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="44" alt="bootstrap" title="Bootstrap"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs" title="Nuxt"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma" title="Prisma"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="44" alt="svelte" title="Svelte/SvelteKit"  />
   <img width="12" />
@@ -86,21 +82,13 @@ So that's what I do.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="44" alt="canva logo" title="Canva" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="44" alt="eslint logo" title="ESLint" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo" title="" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="44" alt="gimp logo" title=""Gimp />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="44" alt="graphql logo" title="GraphQL" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo" title="Postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="44" alt="sketch logo" title="Sketch" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="bash logo"title="Bash"  />
   <img width="12" />
@@ -142,8 +130,6 @@ So that's what I do.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="44" alt="go logo" title=""Go />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo" title="GraphQL" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo" title=""JavaScript />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=perl" height="44" alt="perl logo" title="PERL" />
@@ -168,8 +154,6 @@ So that's what I do.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="44" alt="nestjs logo" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=symfony" height="44" alt="symfony logo" title="Symfony" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel" title="Alravel" title="Laravel" />
-  <img width="12" /> 
 </div>
 
 ###
@@ -180,8 +164,6 @@ So that's what I do.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="44" alt="composer logo" title="Composer" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="44" alt="cucumber logo" title="Cucumber" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="44" alt="fastapi logo" title="FastAPI" />
   <img width="12" />
