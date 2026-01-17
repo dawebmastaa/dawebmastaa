@@ -219,8 +219,8 @@ So that's what I do.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="44" alt="apache logo" title="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" alt="bitbucket logo" title="BitBucker" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="44" alt="apache logo" title="Apache" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=cloudflare" height="44" alt="cloudflare logo" title="CloudFlare" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="44" alt="digitalocean logo" title="DO" />
@@ -233,19 +233,11 @@ So that's what I do.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="44" alt="gitlab logo" title="GitLab" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="44" alt="googlecloud logo" title="GCP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="44" alt="heroku logo" title="Heroku" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="44" alt="nginx logo" title="Nginx" title="Nginx" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="44" alt="netlify logo" title="Netlify" title="Netlify" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo" title="NodeJS" title="NodeJS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo" title="AWS" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" alt="azure logo" title="Azure"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="44" alt="Linux" title="Linux"  />
 </div>
