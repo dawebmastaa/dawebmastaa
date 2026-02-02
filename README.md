@@ -69,18 +69,18 @@ I am NOT a developer. I am a consultant and problem solver for small business ow
 <p>
   <h2>Deployment</h2>
 
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
-![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) 
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=plastic&logo=pythonanywhere&logoColor=151515) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr) 
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white) 
+![Linode](https://img.shields.io/badge/linode-00A95C?logo=linode&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?logo=openstack&logoColor=white) 
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?logo=pythonanywhere&logoColor=151515) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white) 
+![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?logo=vultr) 
 
 </p>
 
