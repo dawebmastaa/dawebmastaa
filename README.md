@@ -5,7 +5,7 @@
 ### Thanks for dropping by!  
 All things modern web. Distilling the noise to find the tools to more easily and efficiently create great web projects.
 
-I build shit. Web Dev drama is for children.
+I build stuff. Web Dev drama is for children.
 
 Use the right tool(s) for the job, not shoehorn your religion (framework) into every project.
 
@@ -46,7 +46,7 @@ There's more to websites than code - there's semantics, accessibility, performan
 
   <h3>Frameworks and Libraries</h3>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=astro,alpinejs,htmx,svelte,tailwind,vue&perline=10" />
+  <img src="https://skillicons.dev/icons?i=adonis,astro,alpinejs,htmx,svelte,tailwind,vue&perline=10" />
   </a>
 
   <h3>Tools</h3>
@@ -70,14 +70,19 @@ There's more to websites than code - there's semantics, accessibility, performan
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,supabase,firebase,planetscale,redis," /></a>
 </p>
 
+
+<!--
 <p>
   <h2>Deployment</h2>
 
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230167ff.svg?style=plastic&logo=docker&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FF6701?style=plastic&logo=gitlab&logoColor=white) 
+
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
@@ -88,6 +93,8 @@ There's more to websites than code - there's semantics, accessibility, performan
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr) 
 
 </p>
+-->
+<br />
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Dawebmastaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
